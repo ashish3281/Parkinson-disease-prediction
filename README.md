@@ -10,9 +10,11 @@ Parkinson's disease (PD) is a progressive disorder with a presymptomatic interva
 
 <p>Python libraries make it very easy for us to handle the data and perform typical and complex tasks with a single line of code.
 </p>
-Pandas – This library helps to load the data frame in a 2D array format and has multiple functions to perform analysis tasks in one go.
-Numpy – Numpy arrays are very fast and can perform large computations in a very short time.
-Matplotlib/Seaborn – This library is used to draw visualizations.
-Sklearn – This module contains multiple libraries having pre-implemented functions to perform tasks from data preprocessing to model development and evaluation.
-XGBoost – This contains the eXtreme Gradient Boosting machine learning algorithm which is one of the algorithms which helps us to achieve high accuracy on predictions.
-Imblearn – This module contains a function that can be used for handling problems related to data imbalance.
+<ul>
+  
+<li>Pandas – This library helps to load the data frame in a 2D array format and has multiple functions to perform analysis tasks in one go.</li>
+<li>Numpy – Numpy arrays are very fast and can perform large computations in a very short time.</li>
+<li>Matplotlib/Seaborn – This library is used to draw visualizations.</li>
+<li>Sklearn – This module contains multiple libraries having pre-implemented functions to perform tasks from data preprocessing to model development and evaluation.</li>
+<li>XGBoost – This contains the eXtreme Gradient Boosting machine learning algorithm which is one of the algorithms which helps us to achieve high accuracy on predictions.</li>
+<li>Imblearn – This module contains a function that can be used for handling problems related to data imbalance.</li>
